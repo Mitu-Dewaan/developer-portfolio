@@ -25,6 +25,7 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width{
@@ -38,3 +39,9 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.My-Dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
